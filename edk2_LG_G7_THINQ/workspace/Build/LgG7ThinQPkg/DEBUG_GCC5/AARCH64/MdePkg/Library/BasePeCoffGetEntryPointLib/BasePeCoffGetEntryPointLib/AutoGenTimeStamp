@@ -1,0 +1,8 @@
+/home/osboxes/edk2sdm/edk2/MdePkg/Include/IndustryStandard/PeImage.h
+/home/osboxes/edk2sdm/edk2/MdePkg/Include/Base.h
+/home/osboxes/edk2sdm/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/osboxes/edk2sdm/edk2/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib.inf
+/home/osboxes/edk2sdm/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/DEBUG/AutoGen.h
+/home/osboxes/edk2sdm/edk2/MdePkg/Include/Library/PeCoffGetEntryPointLib.h
+/home/osboxes/edk2sdm/edk2/MdePkg/Library/BasePeCoffGetEntryPointLib/PeCoffGetEntryPoint.c
+/home/osboxes/edk2sdm/edk2/MdePkg/Include/Library/DebugLib.h
