@@ -24,3 +24,5 @@ Then fastboot boot boot.img or flash it
 
 SimpleFbDxe screen driver is from imbushuo's [Lumia950XLPkg](https://github.com/WOA-Project/Lumia950XLPkg).
 MI 8 EDK2 PKG [MI8EDK2](https://github.com/NekokeCore/edk2_dipper_SDM845_Xiaomi_mi_8)
+@J0SH1X For testing my EDK2 on his Lg G7 ThinQ
+
