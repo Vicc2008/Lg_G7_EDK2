@@ -4,7 +4,7 @@ Based on zhuowei's port for Pixel3XL (https://github.com/Pixel3Dev/edk2-pixel3/)
 
 ## Status 
 
-Boots to efi shell. Need to implement ufs now.
+Boots to efi shell. UFS working
 
 ## Building
 Tested on Ubuntu 18.04.
