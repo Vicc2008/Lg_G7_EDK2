@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_RAW -o /home/osboxes/edk2sdm/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/E660EA85-058E-4b55-A54B-F02F83A24707DisplayEngine/DisplayEngineOffset.raw /home/osboxes/edk2sdm/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/E660EA85-058E-4b55-A54B-F02F83A24707DisplayEngine/DisplayEngine.offset

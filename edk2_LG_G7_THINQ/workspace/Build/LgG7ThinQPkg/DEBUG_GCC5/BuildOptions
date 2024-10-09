@@ -1,4 +1,0 @@
-gCommandLineDefines: {'ARCH': 'AARCH64'}
-BuildOptionPcd: []
-Active Platform: /home/osboxes/edk2sdm/edk2_LG_G7_THINQ/LgG7ThinQPkg/LgG7ThinQPkg.dsc
-Flash Image Definition: /home/osboxes/edk2sdm/edk2_LG_G7_THINQ/LgG7ThinQPkg/LgG7ThinQPkg.fdf
